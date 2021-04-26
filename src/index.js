@@ -7,4 +7,5 @@ import '../assets/css/style.css';
 // import './lessons/fp_005_pure-functions_and_referencial-transparency';
 // import './lessons/fp_006_closures';
 // import './lessons/fp_007_higher-order-functions';
-import './lessons/fp_008_currying_and_partial-application';
+// import './lessons/fp_008_currying_and_partial-application';
+import './lessons/fp_009_function-composition_and_currying';
