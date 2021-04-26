@@ -1,3 +1,3 @@
 import '../assets/css/style.css';
 
-console.log('Hello course world!');
+import './lessons/fp_001_immutable_vs_mutable';
