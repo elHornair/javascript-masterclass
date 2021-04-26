@@ -4,4 +4,5 @@ import '../assets/css/style.css';
 // import './lessons/fp_002_immutable_data_structures';
 // import './lessons/fp_003_imperative_vs_declarative';
 // import './lessons/fp_004_lambda-exprssions_vs_anonymous_functions';
-import './lessons/fp_005_pure-functions_and_referencial-transparency';
+// import './lessons/fp_005_pure-functions_and_referencial-transparency';
+import './lessons/fp_006_closures';
