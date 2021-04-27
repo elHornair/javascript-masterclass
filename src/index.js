@@ -13,4 +13,5 @@ import '../assets/css/style.css';
 // import './lessons/fp_011_recursion';
 // import './lessons/fp_012_memoization';
 
-import './lessons/oop_001_procedural-programming';
+// import './lessons/oop_001_procedural-programming';
+import './lessons/oop_002_object-literals_and_encapsulation';
