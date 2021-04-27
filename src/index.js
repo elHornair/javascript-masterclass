@@ -18,4 +18,5 @@ import '../assets/css/style.css';
 // import './lessons/oop_003_object-literals_and_factory-functions';
 // import './lessons/oop_004_frozen-state_and_immutable-patterns';
 // import './lessons/oop_005_prototypes';
-import './lessons/oop_006_constructor-functions_and_new';
+// import './lessons/oop_006_constructor-functions_and_new';
+import './lessons/oop_007_classes_and_members';
