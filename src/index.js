@@ -11,4 +11,6 @@ import '../assets/css/style.css';
 // import './lessons/fp_009_function-composition_and_currying';
 // import './lessons/fp_010_pipes_and_currying';
 // import './lessons/fp_011_recursion';
-import './lessons/fp_012_memoization';
+// import './lessons/fp_012_memoization';
+
+import './lessons/oop_001_procedural-programming';
