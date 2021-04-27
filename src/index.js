@@ -15,4 +15,5 @@ import '../assets/css/style.css';
 
 // import './lessons/oop_001_procedural-programming';
 // import './lessons/oop_002_object-literals_and_encapsulation';
-import './lessons/oop_003_object-literals_and_factory-functions';
+// import './lessons/oop_003_object-literals_and_factory-functions';
+import './lessons/oop_004_frozen-state_and_immutable-patterns';
