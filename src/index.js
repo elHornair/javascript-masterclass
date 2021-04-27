@@ -20,4 +20,5 @@ import '../assets/css/style.css';
 // import './lessons/oop_005_prototypes';
 // import './lessons/oop_006_constructor-functions_and_new';
 // import './lessons/oop_007_classes_and_members';
-import './lessons/oop_008_private_and_static_class_members';
+// import './lessons/oop_008_private_and_static_class_members';
+import './lessons/oop_009_setters_and_getters';
