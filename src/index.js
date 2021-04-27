@@ -9,4 +9,5 @@ import '../assets/css/style.css';
 // import './lessons/fp_007_higher-order-functions';
 // import './lessons/fp_008_currying_and_partial-application';
 // import './lessons/fp_009_function-composition_and_currying';
-import './lessons/fp_010_pipes_and_currying';
+// import './lessons/fp_010_pipes_and_currying';
+import './lessons/fp_011_recursion';
